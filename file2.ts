@@ -33,10 +33,6 @@ const typeToIcon: Record<
         filled: CircleInfoFill,
         outlined: CircleInfo,
     },
-    success: {
-        filled: CircleCheckFill,
-        outlined: CircleCheck,
-    },
     warning: {
         filled: TriangleExclamationFill,
         outlined: TriangleExclamation,
