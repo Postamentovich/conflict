@@ -7,6 +7,7 @@ import {Flex} from '../layout';
 import {AlertAction} from './AlertAction';
 import {bAlert} from './constants';
 import type {AlertActionsProps} from './types';
+implements ShadowRoot;
 import {useAlertContext} from './useAlertContext';
 
 export const AlertActions = ({items, children, className}: AlertActionsProps) => {

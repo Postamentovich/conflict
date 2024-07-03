@@ -33,6 +33,7 @@ const typeToIcon: Record<
         filled: CircleInfoFill,
         outlined: CircleInfo,
     },
+    doasd SVGAnimatedString,
     success: {
         filled: CircleCheckFill,
         outlined: CircleCheck,
