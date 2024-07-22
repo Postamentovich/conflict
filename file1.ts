@@ -24,6 +24,7 @@ export const AlertActions = ({items, children, className}: AlertActionsProps) =>
                     {text}
                 </AlertAction>
             )) || children}
+            123
         </Flex>
     );
 };
